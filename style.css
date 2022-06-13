@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+    
+}
+
+.heading h3{
+    display: inline;
+    font-size: 25px;
+  
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+    font-size: 15px;
+}
+
+#start_button{
+  font-size: 20px;
+}
